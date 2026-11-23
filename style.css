@@ -144,6 +144,20 @@ section + section {
   margin: 0 0 1rem;
 }
 
+/* Small outlined status label next to a project name, similar to GitHub's "Public" label */
+.status {
+  display: inline-block;
+  margin-left: 0.25rem;
+  padding: 0 0.55rem;
+  border: 1px solid #d0d7de;
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.6;
+  vertical-align: middle;
+}
+
 .tags {
   list-style: none;
   padding: 0;
