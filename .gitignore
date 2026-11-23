@@ -4,3 +4,6 @@
 # Original/source photos; only assets/profile-photo.jpg is published
 assets/profile-photo.png
 assets/profile-photo-web.jpg
+
+# Private CV - not part of the published site
+.lebenslauf/
